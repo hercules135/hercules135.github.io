@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2016-12-17T18:54:13+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[开始自己的博客]]></title>
+    <link href="http://yoursite.com/blog/2016/12/17/firstblog/"/>
+    <updated>2016-12-17T18:28:19+08:00</updated>
+    <id>http://yoursite.com/blog/2016/12/17/firstblog</id>
+    <content type="html"><![CDATA[<h2>千里之行始于足下</h2>
+
+<p>一直都想开始记录一下自己的心得和弄一个自己的网站,正好看到有一个静态的博客的<a href="http://www.jikexueyuan.com/course/887_4.html?ss=1">教程</a>就顺手弄了一个.但是由于时效性和系统不同遇到一些问题,特别记录下来,方便后来人.<del>哪里来的后来人哦</del></p>
+
+<p>不管怎么样,先试试</p>
+]]></content>
+  </entry>
+  
+</feed>
